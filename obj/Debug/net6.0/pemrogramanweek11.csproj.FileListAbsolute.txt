@@ -1,0 +1,15 @@
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\bin\Debug\net6.0\pemrogramanweek11.exe
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\bin\Debug\net6.0\pemrogramanweek11.deps.json
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\bin\Debug\net6.0\pemrogramanweek11.runtimeconfig.json
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\bin\Debug\net6.0\pemrogramanweek11.dll
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\bin\Debug\net6.0\pemrogramanweek11.pdb
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.csproj.AssemblyReference.cache
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.AssemblyInfoInputs.cache
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.AssemblyInfo.cs
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.csproj.CoreCompileInputs.cache
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.dll
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\refint\pemrogramanweek11.dll
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.pdb
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\pemrogramanweek11.genruntimeconfig.cache
+E:\Kuliah\Pemrograman\pemroweek11\pemrogramanweek11\pemrogramanweek11\obj\Debug\net6.0\ref\pemrogramanweek11.dll
